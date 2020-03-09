@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089535846023",
+    "firebase_url": "https://shikou-shop.firebaseio.com",
+    "project_id": "shikou-shop",
+    "storage_bucket": "shikou-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089535846023:android:5d663a9088264f2d81fa22",
+        "android_client_info": {
+          "package_name": "com.example.shikoushop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089535846023-bop3vehneukmvsja1q28gp5rqcer248g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shikoushop",
+            "certificate_hash": "926e33a38b929cc460fd5d90b1f7529d181b4094"
+          }
+        },
+        {
+          "client_id": "1089535846023-51hmju3e654l1ik0mrkoanpaq84n0bih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgm9_zj5Poic1KumnclImLnfes01SmMNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089535846023-51hmju3e654l1ik0mrkoanpaq84n0bih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
